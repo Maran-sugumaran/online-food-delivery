@@ -31,9 +31,8 @@ Password: sree246011
 
 # Contributors
 ## Sree Nandha
-## Vignesh
-## Maran
-<ul>
 <li>Github:https://github.com/sreenandha24</li>
+## Vignesh
 <li>Github:https://github.com/vickii01</li>
+## Maran
 <li>Github:https://github.com/Maran-sugumaran</li>
