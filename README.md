@@ -30,17 +30,12 @@ Password: sree246011
 </ol>
 
 # Contributors
-## Sree Nandha
-</ul>
-<li>Github:https://github.com/sreenandha24</li>
-</ul>
- 
-## Vignesh
-</ul>
-<li>Github:https://github.com/vickii01</li>
-</ul>
-
 ## Maran
   </ul>
 <li>Github:https://github.com/Maran-sugumaran</li>
     </ul>
+    
+## Hari
+</ul>
+<li>Github:https://github.com/HariharasudhanP</li>
+</ul>
